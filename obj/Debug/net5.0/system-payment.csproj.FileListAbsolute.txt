@@ -1,0 +1,16 @@
+C:\Course\system-payment\obj\Debug\net5.0\system-payment.csprojAssemblyReference.cache
+C:\Course\system-payment\obj\Debug\net5.0\system-payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Course\system-payment\obj\Debug\net5.0\system-payment.AssemblyInfoInputs.cache
+C:\Course\system-payment\obj\Debug\net5.0\system-payment.AssemblyInfo.cs
+C:\Course\system-payment\obj\Debug\net5.0\system-payment.csproj.CoreCompileInputs.cache
+C:\Course\system-payment\bin\Debug\net5.0\system-payment.exe
+C:\Course\system-payment\bin\Debug\net5.0\system-payment.deps.json
+C:\Course\system-payment\bin\Debug\net5.0\system-payment.runtimeconfig.json
+C:\Course\system-payment\bin\Debug\net5.0\system-payment.runtimeconfig.dev.json
+C:\Course\system-payment\bin\Debug\net5.0\system-payment.dll
+C:\Course\system-payment\bin\Debug\net5.0\ref\system-payment.dll
+C:\Course\system-payment\bin\Debug\net5.0\system-payment.pdb
+C:\Course\system-payment\obj\Debug\net5.0\system-payment.dll
+C:\Course\system-payment\obj\Debug\net5.0\ref\system-payment.dll
+C:\Course\system-payment\obj\Debug\net5.0\system-payment.pdb
+C:\Course\system-payment\obj\Debug\net5.0\system-payment.genruntimeconfig.cache
